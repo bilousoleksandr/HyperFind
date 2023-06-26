@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>ShortcutsPro</title>
+        <item>
+            <title>1.0.1</title>
+            <pubDate>Mon, 26 Jun 2023 23:40:39 +0300</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/AlexandrBilous/Shortcutspro/releases/download/v1.0.1/ShortcutsPro.zip" length="2557303" type="application/octet-stream" sparkle:edSignature="toRJDkMMD+6PpnpX+bQ1eMW9iVV4Q/vTY9qHOuyRcxGB0qu9XG+1T4gYW8guQMP+ZwHGX8qN7d0l7E53sPPpDA=="/>
+        </item>
+    </channel>
+</rss>
