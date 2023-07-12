@@ -3,13 +3,25 @@
     <channel>
         <title>HyperFind</title>
         <item>
+            <title>1.0.2</title>
+            <pubDate>Wed, 12 Jul 2023 23:43:41 +0300</pubDate>
+            <sparkle:fullReleaseNotesLink>https://raw.githubusercontent.com/AlexandrBilous/HyperFind/main/HyperFind.html</sparkle:fullReleaseNotesLink>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/AlexandrBilous/HyperFind/releases/download/v1.0.2/HyperFind_1.0.2.zip" length="4013893" type="application/octet-stream" sparkle:edSignature="0PKqODwFEKsV2clk/kt7BOJYzMPzEuHGP4zcMZl77oXXcLrJh0UvdqWe9cQYktUk6BOSFNU9tVAdClmPJiwKDA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/AlexandrBilous/HyperFind/releases/download/v1.0.2/HyperFind3-2.delta" sparkle:deltaFrom="2" length="274282" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="KZ8fu7dBeKo740llURuBE5Dqf4SygQsNcQJJO+6etBuXQVftd2QxAF0rX/yF6I9Dmr17bKdfPYRujfNQjvyUDA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.0.1</title>
             <pubDate>Fri, 07 Jul 2023 23:56:35 +0300</pubDate>
             <sparkle:fullReleaseNotesLink>https://raw.githubusercontent.com/AlexandrBilous/HyperFind/main/HyperFind.html</sparkle:fullReleaseNotesLink>
             <sparkle:version>2</sparkle:version>
             <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/AlexandrBilous/HyperFind/releases/download/HyperFind.zip" length="3960404" type="application/octet-stream" sparkle:edSignature="Uhkr8ZkFyvGNuZWamvILHWxYrDO2BGDd3Pe3U3rjVV32PWv0ltS2DJFjvbaN0d/ZiiLJpAv9Ig6e8+tUgSt3Ag=="/>
+            <enclosure url="https://github.com/AlexandrBilous/HyperFind/releases/download/v1.0.1/HyperFind.zip" length="3960404" type="application/octet-stream" sparkle:edSignature="Uhkr8ZkFyvGNuZWamvILHWxYrDO2BGDd3Pe3U3rjVV32PWv0ltS2DJFjvbaN0d/ZiiLJpAv9Ig6e8+tUgSt3Ag=="/>
         </item>
     </channel>
 </rss>
