@@ -3,6 +3,16 @@
     <channel>
         <title>HyperFind</title>
         <item>
+            <title>1.0.3</title>
+            <pubDate>Sun, 16 Jul 2023 21:02:19 +0300</pubDate>
+            <sparkle:fullReleaseNotesLink>https://raw.githubusercontent.com/AlexandrBilous/HyperFind/main/HyperFind.html</sparkle:fullReleaseNotesLink>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://github.com/AlexandrBilous/HyperFind/raw/main/HyperFind.html</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/AlexandrBilous/HyperFind/releases/download/v1.0.3/HyperFind.zip" length="4169340" type="application/octet-stream" sparkle:edSignature="anezFet5ufy5vqENwWlRGOds6KWSnIv7KJVuf1eWx9QQwqqI042MZEqZLRC0uuCoXNDqDkOAAe9VXP6SyIJACQ=="/>
+        </item>
+        <item>
             <title>1.0.2</title>
             <pubDate>Wed, 12 Jul 2023 23:43:41 +0300</pubDate>
             <sparkle:fullReleaseNotesLink>https://raw.githubusercontent.com/AlexandrBilous/HyperFind/main/HyperFind.html</sparkle:fullReleaseNotesLink>
